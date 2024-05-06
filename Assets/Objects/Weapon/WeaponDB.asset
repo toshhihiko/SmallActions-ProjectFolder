@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6af99d02a161474fba1c2f32c996fa9, type: 3}
+  m_Name: WeaponDB
+  m_EditorClassIdentifier: 
+  greenWeaponList:
+  - {fileID: 36083523076956162, guid: 77aedf3ddae1a0248b4973bc780fce1d, type: 3}
+  - {fileID: 4503323697964629910, guid: d0df39bfde9f0d24fb856b5c2d5a54b2, type: 3}
+  - {fileID: 2469126315387982467, guid: 184a82c7dcc47314590032eed7de7801, type: 3}
+  greenWeaponOnFloorList:
+  - {fileID: 7978800958429689858, guid: a6a4925449238fc4fa08ce2b67e90a3a, type: 3}
+  - {fileID: 7978800958429689858, guid: 1d68d19b00973b74f86a4eef103642cf, type: 3}
+  - {fileID: 7978800958429689858, guid: 27f1455867670d64389ad93a54da3e74, type: 3}
+  yellowWeaponList:
+  - {fileID: 36083523076956162, guid: 5acc712e70e183845917829f781a1446, type: 3}
+  - {fileID: 2469126315387982467, guid: 6f988d1a50043c44f8f9041fd5af29a5, type: 3}
+  - {fileID: 4503323697964629910, guid: 7b4d9f55e7ab26f428705d00ae5e9e7b, type: 3}
+  yellowWeaponOnFloorList:
+  - {fileID: 7978800958429689858, guid: 06b7852097f837746a1959c8695e505c, type: 3}
+  - {fileID: 7978800958429689858, guid: 600ec35828cf8ff4ba62f3f80a808ead, type: 3}
+  - {fileID: 7978800958429689858, guid: ab4ca7d7e91ce634398798ed06d7edd9, type: 3}
+  redWeaponList:
+  - {fileID: 36083523076956162, guid: 2384598f09c2bd8499f19d7f72d0dd05, type: 3}
+  - {fileID: 36083523076956162, guid: 9509259cb646d6f4eab281aef2f15116, type: 3}
+  - {fileID: 36083523076956162, guid: a138ac880fa50b2409777c5b50cf7090, type: 3}
+  redWeaponOnFloorList:
+  - {fileID: 7978800958429689858, guid: 4ff361c70b5c51a45bdc25917087b1b0, type: 3}
+  - {fileID: 7978800958429689858, guid: 47d1e84524a8cce4e9a528dcbbae35f2, type: 3}
+  - {fileID: 7978800958429689858, guid: 12ce82920e751e441a3454ca9aca4930, type: 3}

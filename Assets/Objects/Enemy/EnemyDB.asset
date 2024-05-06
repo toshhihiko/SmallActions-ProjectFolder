@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f31218e83351404680538de5a72f057, type: 3}
+  m_Name: EnemyDB
+  m_EditorClassIdentifier: 
+  cityEnemyList:
+  - {fileID: 173644082727075534, guid: 3c65f3db22878f24aa1f813b1a6d2776, type: 3}
+  - {fileID: 8539082486830392056, guid: 55d688eb936caaa4596c7bbf3ae05ff6, type: 3}
+  - {fileID: 731745570977753604, guid: ba71e7694dc14514dbd045fd78dce4e4, type: 3}
+  - {fileID: 5015741676354667823, guid: 6bb7a9507ed4a7e4080daa6ea7f97e60, type: 3}
+  natureEnemyList:
+  - {fileID: 2836939619769761813, guid: f97ec51c8ae08bf4c874e732b7a6f9aa, type: 3}
+  - {fileID: 4531027667076750462, guid: dcce2f8d27f8f4b448d172d0da833f37, type: 3}
+  - {fileID: 1944431156394664132, guid: 5ac6288e92e7aee41b40a509669510e6, type: 3}
+  - {fileID: 2469867485882366136, guid: b94291664dc2e654abccb192d97a284f, type: 3}
+  - {fileID: 4715678457231345466, guid: f7f8394297946b24783e05a6ce595c40, type: 3}
+  bossEnemyList:
+  - {fileID: 5354851865022999361, guid: 13b7ca6da14a8664d81ee2e624a65757, type: 3}
+  - {fileID: 844267069597821440, guid: 2771f0733e40b254ba6ce5ff3549caee, type: 3}
+  - {fileID: 8261253653323274786, guid: fbd5db2b90791ff44a72abbccda5a046, type: 3}
